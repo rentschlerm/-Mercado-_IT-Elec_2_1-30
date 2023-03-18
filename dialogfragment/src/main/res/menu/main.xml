@@ -8,19 +8,19 @@
         app:showAsAction="ifRoom"
         android:icon="@drawable/search"
         android:title="Search"
-        app:actionViewClass="android.widget.SearchView" />
+        />
     <item
         android:id="@+id/refresh"
         android:orderInCategory="101"
         app:showAsAction="ifRoom"
         android:icon="@drawable/refresh"
         android:title="Refresh"
-        app:actionViewClass="android.widget.SearchView" />
+         />
     <item
         android:id="@+id/copy"
         android:orderInCategory="101"
         app:showAsAction="ifRoom"
         android:icon="@drawable/copy"
         android:title="Copy"
-        app:actionViewClass="android.widget.SearchView" />
+         />
 </menu>
