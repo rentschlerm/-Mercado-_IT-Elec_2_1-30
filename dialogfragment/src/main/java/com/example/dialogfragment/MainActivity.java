@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ActionBar actionBar = getSupportActionBar();
 
-        actionBar.setTitle("GFG | ActionBar");
+        actionBar.setTitle("Harvey | ActionBar");
         actionBar.setSubtitle("Design a custom Action bar");
 
         actionBar.setIcon(R.mipmap.ic_launcher);
