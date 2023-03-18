@@ -14,6 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyAndroid"
 include ':app'
-include ':Fragment'
-include ':app:fragment'
 include ':fragment2'
+include ':dialogfragment'
