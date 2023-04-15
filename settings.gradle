@@ -16,3 +16,4 @@ rootProject.name = "MyAndroid"
 include ':app'
 include ':fragment2'
 include ':fragment2:pizza'
+include ':bottomnavintent'
