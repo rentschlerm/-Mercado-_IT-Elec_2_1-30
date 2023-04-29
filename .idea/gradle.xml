@@ -10,10 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Fragment" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app/fragment" />
-            <option value="$PROJECT_DIR$/fragment2" />
+            <option value="$PROJECT_DIR$/dbsqlite" />
           </set>
         </option>
       </GradleProjectSettings>
